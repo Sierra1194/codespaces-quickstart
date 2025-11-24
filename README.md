@@ -48,3 +48,5 @@ Get started with Rasa in the browser using GitHub Codespaces.
       actions_module: "actions" # path to your actions package
     ```
    Then re-run your assistant via `rasa inspect` every time you make changes to your custom actions.
+rasa init --template tutorial
+and follow the instructions.
